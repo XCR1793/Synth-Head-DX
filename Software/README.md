@@ -1,0 +1,1 @@
+Havent worked on coding since DX.2, but that will change once I finish the dev boards. Code will be refactored and properly organised with optimisations to 1. make it run faster and 2. make it easier to use as a proper library.
